@@ -1,0 +1,9 @@
+IAM (Identity and Access Management) es el conjunto de políticas, procesos y tecnologías
+que permiten gestionar identidades digitales y controlar quién accede a qué recursos,
+cuándo y bajo qué condiciones.
+
+Un modelo IAM bien implementado reduce riesgos como:
+- Accesos indebidos
+- Escalada de privilegios
+- Errores humanos
+- Incumplimientos de compliance
